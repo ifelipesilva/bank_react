@@ -1,6 +1,3 @@
-<h1 align="center">
-<img alt="kingx" title="kingx" src="src/images/logo.svg" />
-</h1>
 
 ## 💻 About The Project
 
